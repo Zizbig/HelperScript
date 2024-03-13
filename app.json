@@ -18,6 +18,9 @@
             "required": false},
         "HEROKU_API_KEY": {
             "description": "get a Heroku API key from http://dashboard.heroku.com/account",
+            "required": false},
+        "CUSTOM_PIP_PACKAGES": {
+            "description": "get a Heroku API key from http://dashboard.heroku.com/account",
             "required": false}
     },
     "buildpacks": [
